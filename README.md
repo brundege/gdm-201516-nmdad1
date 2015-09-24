@@ -1,4 +1,4 @@
-New Media Design & Development I
+NMDAD I : Bruno De Geyter
 ================================
 
 |Info|  |
