@@ -1,48 +1,21 @@
 NMDAD I : Bruno De Geyter
 ================================
 
-|Info|  |
-|----|---|
-|Olod|New Media Design & Development I|
-|Auteur(s)|Philippe De Pauw - Waterschoot, Jonas Pottie|
-|Opleiding|Bachelor in de Grafische en digitale media|
-|Academiejaar|2015-16|
-|ECTS-fiche|https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=47532&b=5&c=1|
-
-***
-
 Documenten
 ----------
 
-* [Inleiding](docs/inleiding.md)
-* [Werkstuk](docs/werkstuk.md)
-* [Werkstuk groepsindeling](docs/werkstuk_groepsindeling.md)
-* [Proxy instellingen Arteveldehogeschool](docs/proxysettings.md)
-* [Git](docs/git.md)
-* [Markdown](docs/markdown.md)
-
-Taken
------
-* [Blended Learning](tasks/blended_learning.md) 
-* [Development - Week 1](tasks/week1.md) 
-
+* [Resumé](docs/resume.md)
+* [gitignore]
+* [LICENSE]
+* [README](README.md)
 Auteurs
 --------
 
-**Philippe De Pauw - Waterschoot**
-
-* <http://twitter.com/drdynscript>
-* <http://github.com/drdynscript>
-* <http://bitbucket.org/drdynscript>
-* <https://www.linkedin.com/pub/philippe-de-pauw/6/a33/5a5>
-* <philippe.depauw@arteveldehs.be>
+**Bruno De Geyter**
+* <http://github.com/brundege>
+* <http://bitbucket.org/brundege>
+* <brundege@student.arteveldehs.be>
 	
-**Jonas Pottie**
-
-* <http://twitter.com/jonaspottie>
-* <https://www.linkedin.com/in/jonaspottie>
-* <jonas.pottie@arteveldehs.be>
-
 Arteveldehogeschool
 -------------------
 
