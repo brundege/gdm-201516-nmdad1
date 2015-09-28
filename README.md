@@ -5,9 +5,10 @@ Documenten
 ----------
 
 * [Resumé](docs/resume.md)
-* [gitignore]
-* [LICENSE]
+* gitignore
+* LICENSE
 * [README](README.md)
+
 Auteurs
 --------
 
